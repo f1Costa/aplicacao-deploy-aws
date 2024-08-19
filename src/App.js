@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Esse é meu Primeiro App.
+          My Deployment With AWS CodePipeline
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Cloud Treinamentos
+          Phill
         </a>
       </header>
     </div>
